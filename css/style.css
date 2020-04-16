@@ -261,9 +261,11 @@ a {
 }
 
 .viewFruitFirstDiv{
-    position: absolute;
-    left: 80px;
+    /* position: absolute; */
+    /* left: 80px; */
+    align-self: flex-start;
     height: auto !important;
+    margin-left: 65px;
    
 }
 
