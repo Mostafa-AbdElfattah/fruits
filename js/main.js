@@ -143,7 +143,7 @@ addBtn.onclick = () => {
 
     }
 
-
+    addBtn.setAttribute("name","attCahnged");
 
     }
     else alert('Enter Fruit & Count');
@@ -152,7 +152,7 @@ addBtn.onclick = () => {
 
     document.getElementById("getNewFruitCount").value="";
 
-    addBtn.setAttribute("name","attCahnged")
+   
   }
 
   else {
