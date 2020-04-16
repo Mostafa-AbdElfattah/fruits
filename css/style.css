@@ -261,8 +261,6 @@ a {
 }
 
 .viewFruitFirstDiv{
-    /* position: absolute; */
-    /* left: 80px; */
     align-self: flex-start;
     height: auto !important;
     margin-left: 65px;
@@ -270,7 +268,7 @@ a {
 }
 
 .viewFruitH2{
-    margin: 10px;
+    margin: 10px auto;
     padding: 5px;
     width: fit-content;
     height: 30%; 
